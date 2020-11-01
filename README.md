@@ -8,6 +8,7 @@ Goals of this assignment:
 Protect the Contact-List with Spring Security
 * Only authenticated users should be able to see the contacts
 * CSRF needs to be disabled (or configured correctly)
+* Make sure all tests are still working after the change
 
 ## Assignment 2
 Only users with the role ADMIN should be able to add new contacts
